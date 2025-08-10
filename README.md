@@ -1,14 +1,11 @@
 # Hi there, I'm Shatha 👋
 
-🚀 **Junior Web Designer** passionate about creating beautiful, functional, and user-friendly websites.
+🚀 **Junior Web Designer** passionate about clean, responsive, and accessible UI.  
+I build small, fast websites using **HTML**, **CSS**, and **JavaScript**.
 
----
-
-## 💡 About Me
-- 🎨 I enjoy crafting clean, modern, and responsive web designs.
-- 📚 Currently learning **Computer Information Technology** (Web Design).
-- 🤝 Open to collaborating on web design and development projects.
-- 🌎 Open to remote opportunities.
+- 🎓 Diploma: *Computer/Information Technology (Web Design)* — Delgado Community College  
+- 🌎 Based in Louisiana · Open to **remote** roles  
+- ✨ Portfolio: **[View Here](https://shathaziadeh.github.io/shatha-portfolio/)**
 
 ---
 
@@ -24,20 +21,23 @@
 
 ## 📂 Featured Projects
 
-## 🌟 Portfolio Website
-![Portfolio Website](assets/portfolio-thumbnail.png)
+### 🌟 Portfolio Website
+[![Portfolio Website](assets/portfolio-thumbnail.png)](https://shathaziadeh.github.io/shatha-portfolio/)
+<br>
 [🔗 Live Demo](https://shathaziadeh.github.io/shatha-portfolio/) | [💻 GitHub Repo](https://github.com/Shathaziadeh/shatha-portfolio)
 
 ---
 
-## ☕ Cafe Landing Page
-![Cafe Landing Page](assets/cafe-thumbnail.png)
+### ☕ Cafe Landing Page
+[![Cafe Landing Page](assets/cafe-thumbnail.png)](https://shathaziadeh.github.io/shatha-portfolio/cafe-landing/)
+<br>
 [🔗 Live Demo](https://shathaziadeh.github.io/shatha-portfolio/cafe-landing/) | [💻 GitHub Repo](https://github.com/Shathaziadeh/shatha-portfolio/tree/main/cafe-landing)
 
 ---
 
-## 🛍️ Product Showcase
-![Product Showcase](assets/product-thumbnail.png)
+### 🛍 Product Showcase
+[![Product Showcase](assets/product-thumbnail.png)](https://shathaziadeh.github.io/shatha-portfolio/product-showcase/)
+<br>
 [🔗 Live Demo](https://shathaziadeh.github.io/shatha-portfolio/product-showcase/) | [💻 GitHub Repo](https://github.com/Shathaziadeh/shatha-portfolio/tree/main/product-showcase)
 
 ---
