@@ -24,23 +24,20 @@
 
 ## 📂 Featured Projects
 
-### 🌟 Portfolio Website
-<img src="assets/featured-thumbnail.png" width="400" />
-<br>
+## 🌟 Portfolio Website
+![Portfolio Website](assets/portfolio-thumbnail.png)
 [🔗 Live Demo](https://shathaziadeh.github.io/shatha-portfolio/) | [💻 GitHub Repo](https://github.com/Shathaziadeh/shatha-portfolio)
 
 ---
 
-### ☕ Cafe Landing Page
-<img src="cafe-landing/assets/thumbnail.png" width="400" />
-<br>
+## ☕ Cafe Landing Page
+![Cafe Landing Page](assets/cafe-thumbnail.png)
 [🔗 Live Demo](https://shathaziadeh.github.io/shatha-portfolio/cafe-landing/) | [💻 GitHub Repo](https://github.com/Shathaziadeh/shatha-portfolio/tree/main/cafe-landing)
 
 ---
 
-### 🛍 Product Showcase
-<img src="product-showcase/assets/thumbnail.png" width="400" />
-<br>
+## 🛍️ Product Showcase
+![Product Showcase](assets/product-thumbnail.png)
 [🔗 Live Demo](https://shathaziadeh.github.io/shatha-portfolio/product-showcase/) | [💻 GitHub Repo](https://github.com/Shathaziadeh/shatha-portfolio/tree/main/product-showcase)
 
 ---
