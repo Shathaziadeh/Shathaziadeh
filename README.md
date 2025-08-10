@@ -22,22 +22,19 @@ I build small, fast websites using **HTML**, **CSS**, and **JavaScript**.
 ## 📂 Featured Projects
 
 ### 🌟 Portfolio Website
-[![Portfolio Website](assets/portfolio-thumbnail.png)](https://shathaziadeh.github.io/shatha-portfolio/)
-<br>
+[![Portfolio Website](https://raw.githubusercontent.com/Shathaziadeh/shatha-portfolio/main/assets/featured-thumbnail.png)](https://shathaziadeh.github.io/shatha-portfolio/)
 [🔗 Live Demo](https://shathaziadeh.github.io/shatha-portfolio/) | [💻 GitHub Repo](https://github.com/Shathaziadeh/shatha-portfolio)
 
 ---
 
 ### ☕ Cafe Landing Page
-[![Cafe Landing Page](assets/cafe-thumbnail.png)](https://shathaziadeh.github.io/shatha-portfolio/cafe-landing/)
-<br>
+[![Cafe Landing Page](https://raw.githubusercontent.com/Shathaziadeh/shatha-portfolio/main/cafe-landing/assets/thumbnail.png)](https://shathaziadeh.github.io/shatha-portfolio/cafe-landing/)
 [🔗 Live Demo](https://shathaziadeh.github.io/shatha-portfolio/cafe-landing/) | [💻 GitHub Repo](https://github.com/Shathaziadeh/shatha-portfolio/tree/main/cafe-landing)
 
 ---
 
 ### 🛍 Product Showcase
-[![Product Showcase](assets/product-thumbnail.png)](https://shathaziadeh.github.io/shatha-portfolio/product-showcase/)
-<br>
+[![Product Showcase](https://raw.githubusercontent.com/Shathaziadeh/shatha-portfolio/main/product-showcase/assets/thumbnail.png)](https://shathaziadeh.github.io/shatha-portfolio/product-showcase/)
 [🔗 Live Demo](https://shathaziadeh.github.io/shatha-portfolio/product-showcase/) | [💻 GitHub Repo](https://github.com/Shathaziadeh/shatha-portfolio/tree/main/product-showcase)
 
 ---
