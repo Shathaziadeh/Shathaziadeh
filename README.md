@@ -31,6 +31,11 @@ I build small, fast websites using **HTML**, **CSS**, and **JavaScript**.
 [![Cafe Landing Page](https://raw.githubusercontent.com/Shathaziadeh/shatha-portfolio/main/cafe-landing/assets/thumbnail.png)](https://shathaziadeh.github.io/shatha-portfolio/cafe-landing/)
 [🔗 Live Demo](https://shathaziadeh.github.io/shatha-portfolio/cafe-landing/) | [💻 GitHub Repo](https://github.com/Shathaziadeh/shatha-portfolio/tree/main/cafe-landing)
 
+## ✨ Crystal Clean Modern
+![Crystal Clean Modern Thumbnail](crystal_clean_modern/assets/home_modern.jpg)
+
+🔗 [Live Demo](https://shathaziadeh.github.io/shatha-portfolio/crystal_clean_modern/) | [📂 GitHub Repo](https://github.com/Shathaziadeh/shatha-portfolio/tree/main/crystal_clean_modern)
+
 ---
 
 ### 🛍 Product Showcase
